@@ -1,0 +1,34 @@
+{
+  "name": "furatto",
+  "version": "3.1.0",
+  "main": [
+    "./dist/css/furatto.css",
+    "./dist/css/furatto.min.css",
+    "./dist/css/normalize.css",
+    "./dist/js/furatto.js",
+    "./dist/js/furatto.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "_config.yml",
+    "docs",
+    "fontawesome",
+    "coffee",
+    "img",
+    "docs_scss"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "homepage": "https://github.com/IcaliaLabs/furatto",
+  "_release": "3.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.1.0",
+    "commit": "3a0136c57f1efffaef5d24242c9a7ba28070cf8d"
+  },
+  "_source": "https://github.com/IcaliaLabs/furatto.git",
+  "_target": "^3.1.0",
+  "_originalSource": "furatto",
+  "_direct": true
+}
